@@ -3,10 +3,6 @@
 <h3>Email: jonas.lima2009.a@gmail.com</h3>
 <h3>Whatsapp: (61) 99270-9555</h3>
 
-<h3> 🐱‍👤 Full stack Desenvolvedor Web, com 10 anos de experiência.</h3>
-<h3> 👀 Estou sempre em busca de mais conhecimento.</h3>
-<h3> 💖 Progrmação é minha vida e eu amo oque eu faço. </h3>
-
 <div align="center">
   <a href="https://github.com/jonas2591">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas2591&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
